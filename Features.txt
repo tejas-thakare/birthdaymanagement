@@ -1,2 +1,6 @@
 Features Included in Project 
-1.
+
+1)	Online reservation of event : 
+a)	User will be able to use the Application to make booking and schedule event online.
+b)	Easy access to various birthday event packages is help to suit users needs and budget.
+c)	The user time lost during the travelling to the vendors to make reservation has been solved.
