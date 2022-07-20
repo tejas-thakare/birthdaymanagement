@@ -4,3 +4,11 @@ Features Included in Project
 a)	User will be able to use the Application to make booking and schedule event online.
 b)	Easy access to various birthday event packages is help to suit users needs and budget.
 c)	The user time lost during the travelling to the vendors to make reservation has been solved.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+1.In Birthday Event Management Software The Facility of Sign in is for Registered User and for new visitor there is facility of Sign Up.
+2.After that the User have to fill Details regarding with there Event like the place , Event date and time.
+3.User will be able to see the Service Catlog which includes the Venue,Theam,Decoration,Music System,Cake as per the availability on the bases of selected time slot of the Event and the Availability of Vendor.
+4.Service Catlog also include the Combo of diffrent Services with images of previous Event. User Can able to select services and combo as per their Budget and convinience.
+5.To Confirm Booking of Event User have to go through Payment Process. 
+6.
