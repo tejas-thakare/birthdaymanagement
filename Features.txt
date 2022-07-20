@@ -4,6 +4,8 @@ Features Included in Project
 a)	User will be able to use the Application to make booking and schedule event online.
 b)	Easy access to various birthday event packages is help to suit users needs and budget.
 c)	The user time lost during the travelling to the vendors to make reservation has been solved.
+d)  We don't run out of ordinarily required services at any given time, user will just have to sit back 
+    and let us take care of all the things related to their event.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 1.In Birthday Event Management Software The Facility of Sign in is for Registered User and for new visitor there is facility of Sign Up.
