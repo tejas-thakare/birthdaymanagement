@@ -1,10 +1,12 @@
-Features Included in Project 
+Features Included in Project :Web Application For Event/Birthday Management
 
 1)	Online reservation of event : 
-a)	User will be able to use the Application to make booking and schedule event online.
-b)	Easy access to various birthday event packages is help to suit users needs and budget.
-c)	The user time lost during the travelling to the vendors to make reservation has been solved.
-d)  We don't run out of ordinarily required services at any given time, user will just have to sit back 
+a)	The webapp will provide convenient service to user for booking and schedule event online.
+b)  It will provide easy listing for different vendors who wants to make there services available for user.
+c)	Easy access to various birthday event packages according to suitability of users needs and budget.
+d)	According to the package selection it will check availabilty of that vendor which provide that specific package.
+e)  
+e)  We don't run out of ordinarily required services at any given time, user will just have to sit back 
     and let us take care of all the things related to their event.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -15,3 +17,8 @@ d)  We don't run out of ordinarily required services at any given time, user wil
 5.To Confirm Booking of Event User have to go through Payment Process. 
 6.User Will get the mail for Booking Confirmation.
 7.
+
+
+
+   
+   
