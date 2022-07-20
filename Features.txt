@@ -13,4 +13,5 @@ d)  We don't run out of ordinarily required services at any given time, user wil
 3.User will be able to see the Service Catlog which includes the Venue,Theam,Decoration,Music System,Cake as per the availability on the bases of selected time slot of the Event and the Availability of Vendor.
 4.Service Catlog also include the Combo of diffrent Services with images of previous Event. User Can able to select services and combo as per their Budget and convinience.
 5.To Confirm Booking of Event User have to go through Payment Process. 
-6.User Will get the mail of Booking Confirmation.
+6.User Will get the mail for Booking Confirmation.
+7.
