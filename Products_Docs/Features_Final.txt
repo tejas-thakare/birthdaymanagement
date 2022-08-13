@@ -1,0 +1,25 @@
+** Features **
+
+1. Registration:
+   a) Easy registration for user and vendor.
+   b) It is mandatory for new user/vendor to register first.
+   c) Vendor will have to accepts some terms and conditions.
+
+2. Service Catalogue:
+   a) It will show different Venues and service packages with their price tag.
+   b) Packages and venues which are available at given date and time are displayed to user.
+ 
+3. Cart:
+   a) Cart will show selected venue and service package along with their price.
+   b) Shows total cart value.
+   c) Cart will show option for confirmation which direct user towards payment.
+   
+4. Finance Management:
+   a) Provide Easy payment method for user.
+   b) Handle payment distribution for vendors/venue/taxes/admin commission.
+   c) Refund calculations on cancellation of event according to policy.
+   
+5. Customer Relationship And Management:
+   a) Managing Offers for frequent users and for different time periods of year.
+   b) Feedback and Reviews.
+   c) Assistance for complaints.

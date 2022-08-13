@@ -1,0 +1,19 @@
+Features Included in Project :Web Application For Event/Birthday Management
+
+1)	Online reservation of event : 
+a)	The webapp will provide convenient service to user for booking and schedule event online.
+b)  It will provide easy listing for different vendors who wants to make there services available for user.
+c)	Easy access to various birthday event packages according to suitability of users needs and budget.
+d)	According to the package selection it will check availabilty of that vendor which provide that specific package.
+e)  
+e)  We don't run out of ordinarily required services at any given time, user will just have to sit back 
+    and let us take care of all the things related to their event.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+1.In Birthday Event Management Software The Facility of Sign in is for Registered User and for new visitor there is facility of Sign Up.
+2.After that the User have to fill Details regarding with there Event like the place , Event date and time.
+3.User will be able to see the Service Catlog which includes the Venue,Theam,Decoration,Music System,Cake as per the availability on the bases of selected time slot of the Event and the Availability of Vendor.
+4.Service Catlog also include the Combo of diffrent Services with images of previous Event. User Can able to select services and combo as per their Budget and convinience.
+5.To Confirm Booking of Event User have to go through Payment Process. 
+6.User Will get the mail for Booking Confirmation.
+7.
