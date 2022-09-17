@@ -1,5 +1,4 @@
 import React from "react";
-// import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { Link } from "react-router-dom";
 
 
@@ -16,22 +15,15 @@ function AdminNav() {
                  <nav id="navbar" className="navbar order-last order-lg-0">
 
              <ul>
-     
                       <Link  to="/Home">Home</Link>
                        <Link to="/Requests">Requests</Link>
-                       
-                     
-
-                      <Link to="/Users">Users</Link>
-
-                      <Link to="/Vendors">Vendors</Link>
+                       <Link to="/Users">Users</Link>
+                      <Link to="/Vendors">Vendors</Link>      
               </ul>
                 <i className="bi bi-list mobile-nav-toggle"></i> 
                  </nav>
-                
                  </div>
-         </header>  
-                     
+         </header>                    
 
 </>)
 }
