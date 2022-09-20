@@ -1822,3 +1822,167 @@ table {
   margin: 30px;
   background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
 }
+
+/* Final page css */
+
+.finalbody{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url("../img/finalBanner.png") no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.birthdaycard{
+  position: relative;
+  width: 250px;
+  height: 350px;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transform: perspective(2500px);
+  transition: 1s;
+}
+
+.birthdaycard:hover{
+  transform: perspective(2500px) rotate(5deg);
+  box-shadow: inset 100px 20px 100px rgba(0, 0, 0, 0.2), 0 10px 100px rgba(0, 0, 0, 0.4);
+}
+
+.birthdaycard:hover .cardfront{
+  transform: rotateY(-160deg);
+}
+
+.birthdaycard:hover .happy{
+  visibility: hidden;
+}
+
+.cardfront{
+  position: relative;
+  background-color: rgb(19, 17, 17);
+  width: 250px;
+  height: 350px;
+  overflow: hidden;
+  transform-origin: left;
+  box-shadow: inset 100px 20px 100px rgba(0, 0, 0, 0.2), 30px 0 50px
+  rgba(0, 0, 0, 0.4);
+  transition: 0.6s;
+}
+
+.happy{
+  font-family: Tahoma, sans-serif;
+  text-align: center;
+  margin: 30px;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  transition: 0.1s;
+}
+
+.balloonone, .balloontwo, .balloonthree, .balloonfour{
+  position: absolute;
+  width: 85px;
+  height: 95px;
+  border-radius: 50%;
+}
+
+.balloonone{
+  background-color: rgba(23, 142, 211, 0.493);
+  left: -10px;
+  top: 140px;
+}
+
+.balloontwo{
+  background-color: rgba(250, 22, 14, 0.938);
+  left: 50px;
+  top: 100px;
+}
+
+.balloonthree{
+  background-color: rgba(252, 227, 7, 0.993);
+  left: 110px;
+  top: 140px;
+}
+
+.balloonfour{
+  background-color: rgba(243, 13, 212, 0.7);
+  left: 170px;
+  top: 100px;
+}
+
+.balloonone:before, .balloontwo:before, .balloonthree:before, .balloonfour:before{
+  content:"";
+  position: absolute;
+  width: 1px;
+  height: 155px;
+  background-color: #ffd166;
+  top: 95px;
+  left: 43px;
+}
+
+.balloonone:after, .balloontwo:after, .balloonthree:after, .balloonfour:after{
+  content:"";
+  position: absolute;
+  border-right: 7px solid transparent;
+  border-left: 7px solid transparent;
+  top: 94px;
+  left: 37px;
+}
+
+.balloonone:after{
+  border-bottom: 10px solid rgba(23, 142, 211, 0.493);
+
+}
+
+.balloontwo:after{
+  border-bottom: 10px solid rgba(250, 22, 14, 0.938);
+}
+
+.balloonthree:after{
+  border-bottom: 10px solid rgba(252, 227, 7, 0.993);
+}
+
+.balloonfour:after{
+  border-bottom: 10px solid rgba(243, 13, 212, 0.7);
+}
+
+.cardinside{
+  position: absolute;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 350px;
+  box-shadow: inset 100px 20px 100px rgba(0, 0, 0, 0.2);
+  z-index: -1;
+}
+
+.finalp{
+  font-family: 'Brush Script MT', cursive;
+  margin: 40px;
+  color: #333;
+  font-weight: 400;
+  font-size: x-large;
+}
+
+.regards{
+  font-family: 'Brush Script MT', cursive;
+  font-weight: 600;
+  font-size: xx-large;
+  position: absolute;
+  left: 150px;
+  top: 200px;
+  color: #333;
+}
+
+.back{
+  font-family: Tahoma, sans-serif;
+  text-align: center;
+  margin: 30px;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+
+
+
+
+
