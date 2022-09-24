@@ -1,5 +1,7 @@
-Birthday Planner (Fiesta) is an Online WebPortal which helps you plan birthdays for your dear ones.
-It is a Platform where an user can register himself and choose the
-date,time and venue.Then the platform will show him with all the different service packages
-available as per his need.Looking at the vendor side ,Multiple vendors register themself on the portal for different services and venues.
-Admin gets the rights to approve services, add venues and has an check on users and vendors.
+
+Birthday Planner (Fiesta) is an Online Webportal which helps you plan birthdays for 
+your dear ones.Our Project is web application which provides service packages for the user which helps him to organise event hustle free.The user can select venue 
+for his events according to his requirement along with the packages.If user's selected venue and package is available as per user preferred date and time user can confirm the booking with easy payment. 
+The web application also provide easy listing for vendors who wants to make their services available.Vendors get a dashboard where he/she can check his/her bookings.  While registration the vendor will have to accept the terms and condition.It is also feasible for vendors to easily manages its 
+services through web application.After complition of event the application will split the payment accordingly and vendor will receive its share undoubtly.Admin gets the rights to approve services, add venues and have a on check users 
+and vendors.This makes Fiesta a unique platform filled with unique features and assured services
