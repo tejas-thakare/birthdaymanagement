@@ -11,8 +11,8 @@ export default function NavBarVendor(){
                     </div>
                     <nav id="navbar" className="navbar order-last order-lg-0">
                         <ul>
-                            <li><Link className="nav-a scrollto active" to="/EventBooking">EventBooking</Link></li>
-                            <li><Link className="nav-a scrollto active" to="/Services">Services</Link></li>
+                            
+                            <li><Link className="nav-a scrollto active" to="/Services">Bookings</Link></li>
                             <li><Link className="nav-a scrollto " to="/Home">Sign-out</Link></li>
                         </ul>
                         <i className="bi bi-list mobile-nav-toggle"></i>
