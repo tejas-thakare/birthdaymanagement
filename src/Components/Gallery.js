@@ -7,7 +7,7 @@ export default function Gallery() {
 
         <div class="sectifon-title">
           <h2>Some photos of <span>Our Previous Events</span></h2>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <p>“Wishing you health, love, wealth, happiness and just everything your heart desires”</p>
         </div>
 
         <div class="row g-0">
