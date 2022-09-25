@@ -7,7 +7,7 @@ export default function Packages(){
 
         <div class="section-title">
           <h2>Book an<span>Event</span></h2>
-          <p>open happiness..!</p>
+          <p>Exclusive events, priceless memories</p>
         </div>
 
         <form action="forms/book-a-table.php" method="post" role="form" class="php-email-form" >
