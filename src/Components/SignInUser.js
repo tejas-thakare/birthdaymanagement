@@ -47,7 +47,7 @@ export default function SignInUser(){
 
         <div className="section-title">
           <h2>Sign<span>In</span></h2>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <p>“Wishing you health, love, wealth, happiness and just everything your heart desires”</p>
         </div>
 
         <div className="php-email-form">
