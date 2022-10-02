@@ -13,7 +13,7 @@ Follow this steps=>
 1. Clone the project using link https://github.com/tejas-thakare/birthdaymanagement.git.
 2. Open the Final_Project folder.
 3. In database folder there is database schema which have to source in mysql by using command "mysql -u USER -p DATABASE_NAME < PATH/TO/FILE.sql".
-4. The autocommit should be on.(set autocommit=1;).
+4. The autocommit should be on.(set autocommit=1;)
 5. Create Spring Starter project and include/import all source code from Backend_Code folder of our project. (birthdaymanagement/Final_Project/Backend_Code/)    
 6. You will get all required dependencies from pom.xml file you hava to copy all dependencies or replace your pom.xml with our pom.xml.
 7. Then run the project as spring boot app.
