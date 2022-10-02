@@ -1,1 +1,26 @@
+Project Title:
+Web Application For Birthday Management(Fiesta).
 
+Project Description:
+Birthday planner is a Web Application which helps you plan birthdays for your dear ones. It is a Platform where
+user can register himself and choose the date, time and venue. Then the platform will show all service packages
+available upon which user can choose accordingly. Looking at the vendor side where multiple vendors can register
+themself on the portal for different services and venues. Admin gets the rights to approve services, add venues and
+can check on user and vendors.
+
+How to run project:
+Follow this steps=>
+1. Clone the project using link https://github.com/tejas-thakare/birthdaymanagement.git.
+2. Open the Final_Project folder.
+3. In database folder there is database schema which have to source in mysql by using command "mysql -u USER -p DATABASE_NAME < PATH/TO/FILE.sql".
+4. The autocommit should be on.(set autocommit=1;).
+5. Create Spring Starter project and include/import all source code from Backend_Code folder of our project. (birthdaymanagement/Final_Project/Backend_Code/)    
+6. You will get all required dependencies from pom.xml file you hava to copy all dependencies or replace your pom.xml with our pom.xml.
+7. Then run the project as spring boot app.
+8. For frontend create react folder by "npx create-react-app my-app". (Use vscode Editor for react).
+9. Also install some important node_modules(libraries) using
+   i>  "npm install redux" and "npm install react-redux"  (For Redux Store).
+   ii> "npm install axios" (For axios calls). 
+10. Copy or replace the src folder of created my-app with our src folder which in FrontEnd_Code folder. (birthdaymanagement/Final_Project/FrontEnd_Code/).
+11. Then first run the spring boot project and by using "npm start" run react project you will directed to home page of fiesta.
+12. Now you are ready to explore.
